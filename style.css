@@ -1,0 +1,14 @@
+.navbar {
+    background: white;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.nav-link {
+    background: blue;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
